@@ -1,0 +1,3 @@
+﻿  asclient_hack.cpp
+C:\Users\pwn\source\repos\asclient_hack\asclient_hack\asclient_hack.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+  asclient_hack.vcxproj -> C:\Users\pwn\source\repos\asclient_hack\Debug\asclient_hack.exe
